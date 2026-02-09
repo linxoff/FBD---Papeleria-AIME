@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Proyecto prático para la materia FBD de 4to semestre. <br> Realizado por a alumna America Arellano <br><br>Este proyecto consiste en el desarrollo de una base de datos para la gestión de una papelería local, cuyo objetivo principal es diseñar, implementar y administrar correctamente la información relacionada con las operaciones del negocio. Busco que la base de datos permita organizar datos como productos, inventario, ventas, clientes y proveedores, garantizando su integridad, consistencia y disponibilidad.</p>
+<p align="left">Proyecto prático para la materia FBD de 4to semestre. <br> Realizado por la alumna America Arellano <br><br>Este proyecto consiste en el desarrollo de una base de datos para la gestión de una papelería local, cuyo objetivo principal es diseñar, implementar y administrar correctamente la información relacionada con las operaciones del negocio. Busco que la base de datos permita organizar datos como productos, inventario, ventas, clientes y proveedores, garantizando su integridad, consistencia y disponibilidad.</p>
 
 ###
 

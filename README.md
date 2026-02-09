@@ -18,8 +18,8 @@
 
 ###
 
-<img align="right" height="200" src="<img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/355cafaf-8376-40c9-befd-352631238c57"/>
-"  />
+<img align="right" height="200" src="https://i.pinimg.com/736x/32/e7/b8/32e7b807f07fc38a97a5f0e902f053b4--make-a-gif-cozy-living-rooms.jpg"  />
+
 
 ###
 

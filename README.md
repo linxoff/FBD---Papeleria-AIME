@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=121&section=header&reversal=false&text=Proyecto%20FBD-%20Academia%20LatinCle&fontSize=40&fontColor=f1f1f1&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=121&section=header&reversal=false&text=Proyecto%20FBD-%20Academia%20NOVA&fontSize=40&fontColor=f1f1f1&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Proyecto prático para la materia FBD de 4to semestre. <br> Realizado por la alumna America Arellano <br><br>Este proyecto consiste en el desarrollo de una base de datos para la gestión de alumnos en una academia de danza de nombre LatinCle, cuyo objetivo principal es diseñar, implementar y administrar correctamente la información relacionada con las operaciones del negocio. Busco que la base de datos permita organizar datos como cupos de grupos, información de alumnos, clases y estilos, horarios de salones, inscripciones o pagos y mensualidades. .</p>
+<p align="left">Proyecto prático para la materia FBD de 4to semestre. <br> Realizado por la alumna America Arellano <br><br>Este proyecto consiste en el desarrollo de una base de datos para la gestión de alumnos en una academia de danza de nombre NOVA, cuyo objetivo principal es diseñar, implementar y administrar correctamente la información relacionada con las operaciones del negocio. Busco que la base de datos permita organizar datos como cupos de grupos, información de alumnos, clases y estilos, horarios de salones, inscripciones o pagos y mensualidades. .</p>
 
 ###
 

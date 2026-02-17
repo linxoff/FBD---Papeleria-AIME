@@ -1,60 +1,47 @@
-<br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=121&section=header&reversal=false&text=Proyecto%20FBD-%20Academia%20NOVA&fontSize=40&fontColor=f1f1f1&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f1f1f1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Descripción</h2>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/736x/32/e7/b8/32e7b807f07fc38a97a5f0e902f053b4--make-a-gif-cozy-living-rooms.jpg"  />
-
-
-###
-
-<p align="left">Proyecto prático para la materia FBD de 4to semestre. <br> Realizado por la alumna America Arellano <br><br>Este proyecto consiste en el desarrollo de una base de datos para la gestión de alumnos en una academia de danza de nombre NOVA, cuyo objetivo principal es diseñar, implementar y administrar correctamente la información relacionada con las operaciones del negocio. Busco que la base de datos permita organizar datos como cupos de grupos, información de alumnos, clases y estilos, horarios de salones, inscripciones o pagos y mensualidades. .</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Motivación</h2>
-
-###
-
-<p align="left">La motivación de este proyecto es aplicar de manera práctica los conceptos fundamentales de las bases de datos mediante la creación de una herramienta administrativa para el negocio. Una academia de danza es un ejemplo que tiene buena cantidad de información que maneja diariamente y permitirá comprender la importancia de una base de datos bien estructurada.<br><br>A través de este proyecto, busco desarrollar habilidades esenciales como el análisis de requerimientos de información, el diseño lógico y físico de una base de datos, y la creación de consultas que permitan obtener información útil para la toma de decisiones.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Tech´s (planeadas)</h2>
-
-###
-
-<br clear="both">
+<h1 align="center">Academia NOVA</h1>
 
 <div align="center">
+<img height="100" src="https://media1.tenor.com/m/kQjsTRbRQoYAAAAC/quby.gif"  />
+<img height="100" src="https://media1.tenor.com/m/kQjsTRbRQoYAAAAC/quby.gif"  />
+<img height="100" src="https://media1.tenor.com/m/kQjsTRbRQoYAAAAC/quby.gif"  />
+</div>
+
+
+# Descripción 
+NOVA es una academia de danza abierta al público desde 2024 en la ciudad de Ensenada, B.C. 
+A pesar del timepo, no tienen un sistema para el manejo de pagos, mensualidades, cupos de cada clase o maestros asignados a cada curso. Por lo tanto, éste proyecto busca brindar una herramienta que permita tener un control de las clases y pagos de la academia para una mejor administración mediante una base de datos.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=cdcdcd"  />
+</div>
+
+# Motivación
+Aplicar de manera práctica los conceptos fundamentales de las bases de datos mediante la creación de una herramienta administrativa para el negocio. Una academia de danza es un ejemplo que tiene buena cantidad de información que maneja diariamente y permitirá comprender la importancia de una base de datos bien estructurada.
+
+A través de este proyecto, busco desarrollar habilidades esenciales como el análisis de requerimientos de información, el diseño lógico y físico de una base de datos, y la creación de consultas que permitan obtener información útil para la toma de decisiones.
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=cdcdcd"  />
+</div>
+
+# Tecnologías pensadas para este proyecto
+<div align="center"><p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+  </p></div>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue?style=plastic"> para crear tablas, definir llaves primarias, foráneas, guardar los datos.
+</p>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-orange?style=plastic">
+para diseñar tablas, ver relaciones, ejecutar consultas SQL, administrar la base de datos. 
+<p/>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?style=plastic">
+   para crear una interfaz gráfica en la que el usuario pueda utilizar la base de datos.
+</p>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
-</div>
 
-###
+

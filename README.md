@@ -41,6 +41,8 @@ para diseñar tablas, ver relaciones, ejecutar consultas SQL, administrar la bas
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?style=plastic">
    para crear una interfaz gráfica en la que el usuario pueda utilizar la base de datos.
 </p>
+<p><b>Proyecto realizado para la materia de Fundamentos de Bases de Datos del grupo 4SA.<br>Desarrollado por la alumna America Vianney Arellano Castillo.
+</b></p>
 
 
 
